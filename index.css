@@ -1,0 +1,26 @@
+
+ .b1 {
+width: 50px;
+height: 50px; 
+background-color: red; 
+border-radius: 40px; 
+/*margin-bottom: 50px;*/
+} 
+#b2{
+width: 50px;
+height: 50px; 
+outline: 1px solid blue; 
+/*margin-top: -10px;*/
+margin-bottom: 20px;
+/*margin-left: 50px;*/    
+}
+.b3{
+ width: 50px; 
+ height: 50px; 
+ border: 2px solid green;   
+ padding-top: 10px;
+ padding-right: 10px;
+} 
+
+
+
